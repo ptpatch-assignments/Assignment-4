@@ -1,0 +1,7 @@
+C:\Users\30694\source\repos\ShirtAssignmentV2\bin\Debug\ShirtAssignmentV2.exe.config
+C:\Users\30694\source\repos\ShirtAssignmentV2\bin\Debug\ShirtAssignmentV2.exe
+C:\Users\30694\source\repos\ShirtAssignmentV2\bin\Debug\ShirtAssignmentV2.pdb
+C:\Users\30694\source\repos\ShirtAssignmentV2\obj\Debug\ShirtAssignmentV2.csprojAssemblyReference.cache
+C:\Users\30694\source\repos\ShirtAssignmentV2\obj\Debug\ShirtAssignmentV2.csproj.CoreCompileInputs.cache
+C:\Users\30694\source\repos\ShirtAssignmentV2\obj\Debug\ShirtAssignmentV2.exe
+C:\Users\30694\source\repos\ShirtAssignmentV2\obj\Debug\ShirtAssignmentV2.pdb
